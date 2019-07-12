@@ -1,9 +1,9 @@
 #<center>\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 ######<center>***Copyright (c) 2019/07/12 https://github.com/califafa. All rights reserved.***
 ######<center>
->参考：
->>https://www.cnblogs.com/clnchanpin/p/6939455.html
->>https://blog.csdn.net/RhythmWANG/article/details/78643095
+><center>参考：
+><center>https://www.cnblogs.com/clnchanpin/p/6939455.html
+><center>https://blog.csdn.net/RhythmWANG/article/details/78643095
 #<center>\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 #<center>四旋翼 PID 调参经验<center>______________________
 
